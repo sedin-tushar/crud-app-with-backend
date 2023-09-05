@@ -28,6 +28,18 @@
       "experience": 23,
       "package": 3333333333,
       "id": 1
+    },
+    {
+      "firstName": "wdwed",
+      "lastName": "dawdw",
+      "email": "dwdw",
+      "dob": "2023-09-12T18:30:00.000Z",
+      "gender": "others",
+      "education": "Intermediate",
+      "company": "dqwdw",
+      "experience": 23,
+      "package": 23,
+      "id": 2
     }
   ]
 }
